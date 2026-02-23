@@ -1,4 +1,6 @@
-a = 10
-b = 9
+a = int(input ("Digite um numero: "))
+b = int(input("Digite Um numero: "))
+x = a + b
 
-print(a+b)
+
+print(x)
